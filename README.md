@@ -1,6 +1,6 @@
 <p align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MathieuDubart&theme=github-dark-blue&hide_border=true&ring=0ADD0C&fire=DD4D0C&sideNums=0ADD0C)](https://git.io/streak-stats)
+<img title="" alt="MathieuDubart's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MathieuDubart&theme=monokai-metallian&hide_border=true"/>
   
 </p>
 
