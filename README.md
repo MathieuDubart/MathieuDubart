@@ -4,6 +4,7 @@
 → I am convinced that development is an excellent way to help others and make the world a little better in our own way and on our own scale, and I would like to commit myself to it as much as possible.
 
 → Currently Fullstack Engineer @ MyRole
+
 → Available for work in early September
 
 → You can also find me around there:
