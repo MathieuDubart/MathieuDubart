@@ -36,5 +36,4 @@ Fullstack Engineer @ MyRole. Open to new opportunities from September 2026.
 
 ## Elsewhere
 
-[LinkedIn](https://linkedin.com/in/mathieu-dubart)
-[hello@mathieu-dubart.fr](mailto:hello@mathieu-dubart.fr)
+[LinkedIn](https://linkedin.com/in/mathieu-dubart) • [hello@mathieu-dubart.fr](mailto:hello@mathieu-dubart.fr)
