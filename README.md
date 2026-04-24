@@ -3,7 +3,7 @@
 I'm an iOS and Fullstack Engineer from France. Swift and SwiftUI are my daily 
 playground, and I care as much about product feel as I do about clean code.
 
-I build mostly for people who want software they actually own — tools that 
+I want to build mostly for people who want software they actually own — tools that 
 run on their devices, sync with their own servers, and don't trade their 
 data for "free" services. Self-hosting, open source, and genuine user 
 ownership are values I try to reflect in what I ship.
