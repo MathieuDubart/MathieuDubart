@@ -8,10 +8,12 @@ run on their devices, sync with their own servers, and don't trade their
 data for "free" services. Self-hosting, open source, and genuine user 
 ownership are values I try to reflect in what I ship.
 
-I use AI tools in my workflow. I also think the current state of the AI 
-industry deserves a lot more scrutiny than it gets. I try to hold both 
-honestly: using what helps me ship, while staying critical about where 
-this technology is going and who it serves.
+I use AI tools in my workflow. What I genuinely love is the design and architecture phase — laying
+out the vision, making decisions, shaping how the project comes
+together. I'm not a 10x engineer, so I'm using what helps me concretize my ideas.
+I also think the current state of the AI industry deserves a lot more
+scrutiny than it gets. I try to hold both honestly: using what helps me 
+ship, while staying critical about where this technology is going and who it serves. 
 
 ## Currently building
 
