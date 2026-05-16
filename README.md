@@ -34,7 +34,7 @@ Support TorBox for managing media file storage.
 
 ## Work
 
-Fullstack Engineer @ MyRole. Open to new opportunities from September 2026.
+Fullstack Engineer @ MyRole. Master degree student @ GOBELINS. Open to new opportunities from September 2026.
 
 ## Elsewhere
 
