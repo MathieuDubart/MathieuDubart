@@ -27,14 +27,9 @@ A modern Swift client library for the Subsonic and OpenSubsonic APIs. Zero
 dependencies, async/await native, Swift 6 strict concurrency — built because 
 the existing libraries weren't up to date with modern Swift.
 
-👀 **[Homelab](https://github.com/MathieuDubart/Homelab)**
-A high-performance, native dashboard for self-hosted infrastructure.
-Built with a focus on Zero Trust security and multi-process synchronization.
-Support TorBox for managing media file storage.
-
 ## Work
 
-Fullstack Engineer @ MyRole. Master degree student @ GOBELINS. Open to new opportunities from September 2026.
+Fullstack Engineer @ MyRole. Master degree student @ GOBELINS. Open to new opportunities from October 2026.
 
 ## Elsewhere
 
