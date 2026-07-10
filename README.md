@@ -29,7 +29,7 @@ the existing libraries weren't up to date with modern Swift.
 
 ## Work
 
-Fullstack Engineer @ MyRole. Master degree student @ GOBELINS. Open to new opportunities from October 2026.
+Fullstack Engineer @ MyRole. Master degree alumni @ GOBELINS. Open to new opportunities from October 2026.
 
 ## Elsewhere
 
