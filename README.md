@@ -6,23 +6,16 @@ playground, and I care as much about product feel as I do about clean code.
 I want to build mostly for people who want software they actually own — tools that 
 run on their devices, sync with their own servers, and don't trade their 
 data for "free" services. Self-hosting, open source, and genuine user 
-ownership are values I try to reflect in what I ship.
-
-I use AI tools in my workflow. What I genuinely love is the design and architecture phase — laying
-out the vision, making decisions, shaping how the project comes
-together. I'm not a 10x engineer, so I'm using what helps me concretize my ideas.
-I also think the current state of the AI industry deserves a lot more
-scrutiny than it gets. I try to hold both honestly: using what helps me 
-ship, while staying critical about where this technology is going and who it serves. 
+ownership are values I try to reflect in what I ship under **[Cassette Lab](https://github.com/CassetteLab)**
 
 ## Currently building
 
-🎵 **[Cassette](https://github.com/MathieuDubart/Cassette)**
+🎵 **[Cassette](https://github.com/CassetteLab/Cassette)**
 A native iOS and macOS client for Subsonic and OpenSubsonic servers. Built 
 for people who self-host their music and want a polished native app to enjoy 
 their library on the go.
 
-📦 **[SwiftSonic](https://github.com/MathieuDubart/SwiftSonic)**
+📦 **[SwiftSonic](https://github.com/CassetteLab/swiftsonic)**
 A modern Swift client library for the Subsonic and OpenSubsonic APIs. Zero 
 dependencies, async/await native, Swift 6 strict concurrency — built because 
 the existing libraries weren't up to date with modern Swift.
