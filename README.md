@@ -27,9 +27,12 @@ A modern Swift client library for the Subsonic and OpenSubsonic APIs. Zero
 dependencies, async/await native, Swift 6 strict concurrency — built because 
 the existing libraries weren't up to date with modern Swift.
 
+💿 **[CrateDigger](https://github.com/CassetteLab/crate-digger)**
+A Swift-native client to communicate with your deemix instance.
+
 ## Work
 
-Fullstack Engineer @ MyRole. Master degree alumni @ GOBELINS. Open to new opportunities from October 2026.
+iOS Engineer @ MyRole. Master degree alumni @ GOBELINS. Open to new opportunities from October 2026.
 
 ## Elsewhere
 
