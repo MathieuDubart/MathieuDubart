@@ -22,7 +22,7 @@ the existing libraries weren't up to date with modern Swift.
 
 ## Work
 
-iOS Engineer. Master degree alumni @ GOBELINS. Open to new opportunities from October 2026.
+iOS Engineer. alumni @ GOBELINS. Open to new opportunities.
 
 ## Elsewhere
 
