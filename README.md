@@ -22,7 +22,7 @@ the existing libraries weren't up to date with modern Swift.
 
 ## Work
 
-iOS Engineer. alumni @ GOBELINS. Open to new opportunities.
+iOS Engineer. Alumni @ GOBELINS. Open to new opportunities.
 
 ## Elsewhere
 
