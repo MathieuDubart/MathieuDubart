@@ -20,6 +20,12 @@ A modern Swift client library for the Subsonic and OpenSubsonic APIs. Zero
 dependencies, async/await native, Swift 6 strict concurrency — built because 
 the existing libraries weren't up to date with modern Swift.
 
+## Contributing to
+
+🎯 **[Wily](https://github.com/ValentinGassend/cs2-coach)**
+A free, open source CS2 coach that runs entirely on your own PC. I'm working on
+its Linux port.
+
 ## Work
 
 iOS Engineer. Alumni @ GOBELINS. Open to new opportunities.
