@@ -1,17 +1,13 @@
 # Hey, I'm Mathieu 👋
 
-I'm an iOS and Fullstack Engineer from France. Swift and SwiftUI are my daily 
-playground, and I care as much about product feel as I do about clean code.
+I build software you actually own.
+Native iOS apps in Swift and SwiftUI. No cross-platform, no templates. Apps with style that respect the people using them.
 
-I want to build mostly for people who want software they actually own — tools that 
-run on their devices, sync with their own servers, and don't trade their 
-data for "free" services. Self-hosting, open source, and genuine user 
-ownership are values I try to reflect in what I ship under **[Cassette Lab](https://github.com/CassetteLab)**
 
 ## Currently building
 
 🎵 **[Cassette](https://github.com/CassetteLab/Cassette)**
-A native iOS and macOS client for Subsonic and OpenSubsonic servers. Built 
+A native iOS, iPadOS and macOS client for Subsonic and OpenSubsonic servers. Built 
 for people who self-host their music and want a polished native app to enjoy 
 their library on the go.
 
@@ -20,16 +16,10 @@ A modern Swift client library for the Subsonic and OpenSubsonic APIs. Zero
 dependencies, async/await native, Swift 6 strict concurrency — built because 
 the existing libraries weren't up to date with modern Swift.
 
-## Contributing to
-
-🎯 **[Wily](https://github.com/ValentinGassend/cs2-coach)**
-A free, open source CS2 coach that runs entirely on your own PC. I'm working on
-its Linux port.
-
 ## Work
 
 iOS Engineer. Alumni @ GOBELINS. Open to new opportunities.
 
 ## Elsewhere
 
-[About Me](https://mathieu-dubart.fr) • [Mastodon](https://mastodon.social/@mathieudbrt) • [LinkedIn](https://linkedin.com/in/mathieu-dubart) • [hello@mathieu-dubart.fr](mailto:hello@mathieu-dubart.fr)
+[About Me](https://mathieu-dubart.fr) • [Threads](https://www.threads.com/@mathieudbrt) • [LinkedIn](https://linkedin.com/in/mathieu-dubart) • [hello@mathieu-dubart.fr](mailto:hello@mathieu-dubart.fr)
